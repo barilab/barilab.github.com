@@ -174,3 +174,5 @@ loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 improvedigital.com, 2464, RESELLER
+pangleglobal.com, 5039312, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
